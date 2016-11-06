@@ -1,0 +1,5 @@
+## YAML Template.
+---
+name: Noxi
+main: com.blackveiled.Noxi.main
+version: 0.00
